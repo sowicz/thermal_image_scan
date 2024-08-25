@@ -15,3 +15,13 @@ The `thermal_image_scan` class is designed to process thermal images by overlayi
 - NumPy library
 
 
+### Original image 
+![Original image](https://github.com/sowicz/thermal_image_scan/blob/main/screenshots/Original_img.png)
+
+
+### Filtered red color and make mask
+![Filtered red and mask](https://github.com/sowicz/thermal_image_scan/blob/main/screenshots/filtered_Red.png)
+
+
+### Grid on hottes area
+![With grid](https://github.com/sowicz/thermal_image_scan/blob/main/screenshots/final_thermal.png)
